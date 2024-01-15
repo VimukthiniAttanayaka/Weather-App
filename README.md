@@ -1,4 +1,5 @@
 # wether_app
+![image](https://github.com/VimukthiniAttanayaka/Weather-App/assets/73266263/5d06e1ed-bfbe-40ef-bae5-4f2c908ee250)
 
 A new Flutter project.
 
